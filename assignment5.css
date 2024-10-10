@@ -1,0 +1,44 @@
+.GSD {
+  text-align: center;
+  text-decoration: underline;
+  color: bisque;
+}
+
+body {
+  background-color: beige;
+}
+
+.frame {
+  width: 570px;
+  height: 100%;
+  border: 10px double rgb(82, 74, 65);
+  border-radius: 20px;
+  /* background-size: cover; */
+  padding: 10px;
+  background-image: conic-gradient(brown, rgb(193, 117, 17), brown);
+  margin: 50px auto;
+}
+.paragraph1 {
+  font-weight: 200px;
+  text-decoration: solid;
+  color: black;
+  font-weight: 600;
+}
+.dogp {
+  border-top-left-radius: 19px;
+  border-bottom-left-radius: 19px;
+  border-top-right-radius: 19px;
+  border-bottom-right-radius: 19px;
+  padding: 10px 5px 4px 5px;
+  color: black;
+}
+.head2 {
+  text-align: center;
+  text-decoration: underline;
+  color: bisque;
+  font-style: italic;
+}
+.orl {
+  color: black;
+  font-weight: 600;
+}

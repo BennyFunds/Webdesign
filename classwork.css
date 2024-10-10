@@ -1,0 +1,15 @@
+.heading {
+  text-align: center;
+}
+.frame {
+  border: 10px double;
+  width: 500px;
+  padding: 10px;
+  background-color: burlywood;
+  font-size: 15px;
+  font-family: Arial;
+  margin: 10px auto;
+}
+.address {
+  text-align: right;
+}

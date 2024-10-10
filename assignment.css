@@ -1,0 +1,45 @@
+body {
+  background-color: bisque;
+}
+
+.hobby {
+  color: blue;
+  text-align: center;
+  font: italic;
+  font-size: large;
+}
+.bio {
+  font: 200;
+  font-style: oblique;
+  text-align: center;
+  font-size: larger;
+  background-color: lightblue;
+}
+#bio text {
+  color: brown;
+}
+#name {
+  text-align: center;
+  font-size: x-large;
+  font-style: normal;
+  color: brown;
+  background-image: -moz-linear-gradient("papper.gif");
+}
+.img {
+  border-radius: 100%;
+}
+.DOG {
+  color: brown;
+  font-display: swap;
+  font-style: oblique;
+}
+#FIVE {
+  text-align: center;
+  font-style: italic;
+  font-family: Arial;
+}
+.paragraph {
+  color: midnightblue;
+  text-decoration: dashed;
+  text-align: center;
+}

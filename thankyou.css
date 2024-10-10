@@ -1,0 +1,28 @@
+.frame{
+    width: 500px;
+    border: 10px groove blue;
+    border-radius: 10px;
+    margin-top: 200px;
+    background-color: rgb(249, 250, 215);
+    padding: 10px;
+    /* margin: 50px auto; */
+    margin-left: 200px;
+}
+body{
+    background-image: url("./WhatsApp\ Image\ 2024-10-10\ at\ 09.26.20_ffa253c5.jpg");
+    background-size: cover;
+    width: 500px;
+    height: fit-content;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    border: 2px solid #e1f5c4;
+    background: rgba(236, 131, 2, 0.468);
+    margin-top: 13px;   
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.btn:focus{
+    outline: none;}

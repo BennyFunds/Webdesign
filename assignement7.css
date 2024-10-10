@@ -1,0 +1,21 @@
+.frame {
+  background-color: powderblue;
+}
+.img {
+  width: 500px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.fram {
+  width: 500px;
+  border: 20px double black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgba(163, 40, 163, 0.785);
+  background-color: rgb(224, 115, 115);
+  margin: 50px auto;
+}
+.head {
+  text-align: center;
+  text-transform: capitalize;
+}

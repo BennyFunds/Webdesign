@@ -1,0 +1,21 @@
+.Address {
+  text-align: end;
+  /* color: white; */
+}
+#date {
+  text-align: end;
+  /* color: white; */
+}
+.heading {
+  text-align: center;
+  /* color: white; */
+}
+.frame {
+  width: 500px;
+  border: 20px solid black;
+  padding: 10px;
+  color: white;
+}
+body {
+  background-image: conic-gradient(#001f3f, #ffdc00, #cc5500, #8b0000, #001f3f);
+}
