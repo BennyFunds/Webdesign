@@ -1,13 +1,16 @@
 .frame {
   width: 500px;
   height: 430px;
-  border: double 10px;
-  color: rgb(230, 210, 210);
-  background-image: conic-gradient(red, green, blue, yellow, purple, red);
+  border: 10px double gray;
+  color: white;
+  background-image: url("./background1.jpg");
   padding: 10px;
   margin: 50px auto;
 }
 .frame > p {
   color: #d6dd0d;
   font-size: large;
+}
+body{
+background-color: burlywood;
 }
