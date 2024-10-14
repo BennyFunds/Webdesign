@@ -1,0 +1,13 @@
+.frame{
+    border-collapse: collapse;
+   background-color: aliceblue;
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+.cel{
+    height: fit-content;
+    border:2x solid  black;
+    border-bottom: ;
+}

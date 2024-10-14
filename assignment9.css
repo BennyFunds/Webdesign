@@ -1,0 +1,39 @@
+.frame{
+    border: 20px solid white;
+    padding: 15px;
+    border-radius: 20px;
+   background-color:  white;
+   width: 500px;
+   margin: 0 auto;
+   
+   /* font-family: sans-serif; */
+}
+body{
+    background-color: antiquewhite;
+}
+.Preparation{
+    background-color: rgb(250, 223, 245);
+    border-radius: 15px;
+    height: 120px;
+    padding: 0px;
+    word-spacing: 5px;
+}
+.frame>img{
+    border-radius: 10px;
+
+    
+}
+.Preparation >h2{
+    color: blueviolet;
+    text-align: center;
+}
+.frame>h2{
+    color: rgb(245, 170, 78);
+}
+.ws{
+    word-spacing: 200px;
+    color: rgb(225, 131, 9);
+}
+.text{
+    color: rgb(71, 70, 70);
+}

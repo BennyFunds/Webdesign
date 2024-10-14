@@ -1,0 +1,45 @@
+.frame{
+    border: 10px solid green;
+    border-radius: 2px;
+    width: 500px;
+    height: 430px;
+    padding: 20px;
+   
+    background-image: conic-gradient(red,green,blue, purple, red);
+    position: relative;
+    margin: 0 auto;
+}
+body{
+    background-color: brown;
+}
+img{
+    width: 50px;
+    border-radius: 100%;
+   
+}
+.frame >p{
+    font-size: 20px;
+
+}
+.frame >img{
+    position: absolute;
+    right: 60px;
+    bottom: 30px;
+    padding: 20px;
+    
+}
+.dd{
+   position: absolute;
+   color: white;
+   right: 20px;
+   bottom: 8px;
+}
+.hbd{
+    border: 5px solid rgb(210, 74, 10);
+    margin-top: 150px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-image: conic-gradient(green, red, orange, green);
+    
+}
