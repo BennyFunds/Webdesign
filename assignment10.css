@@ -1,0 +1,56 @@
+body {
+    background-color: #1e2a36;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+}
+
+.advice-card {
+    background-color: #2f3e4d;
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+    color: #d1d1d1;
+    position: relative;
+}
+
+.advice-number {
+    color: #6bdc84;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+}
+
+.advice-text {
+    font-size: 18px;
+    margin: 20px 0;
+    height: 100px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.dice-icon{
+    border:px solid green; 
+    position: relative;
+}
+
+.dice-icon >img {
+       position: absolute;
+       bottom: -50px;
+       border-radius: 5px;
+       
+       border: 10px solid green;
+       border-radius: 50px;
+       left: 45%;
+       top: 3px;
+}

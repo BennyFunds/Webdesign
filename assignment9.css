@@ -33,7 +33,22 @@ body{
 .ws{
     word-spacing: 200px;
     color: rgb(225, 131, 9);
+    margin-right: 100px;
 }
 .text{
     color: rgb(71, 70, 70);
+}
+.nutr >span{
+    margin-right: 150px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+td>b{
+    color: brown;
 }
