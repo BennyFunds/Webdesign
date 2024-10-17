@@ -1,0 +1,30 @@
+body{
+    border: 10px solid pink;
+    height: 600px;
+    padding: 20px;
+    width: 500px;
+    margin: 50px auto;
+}
+.frame> h1{
+    text-align: center;
+    font-weight: bold;
+    
+}
+.frame >input{
+    width: 450px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+.continue{
+    margin-top: 400px;
+}
+.link{
+color: red;
+}
+.link:hover{
+    color: blue;
+}
+.button{
+    width: 500px;
+    height: 40px;
+}
