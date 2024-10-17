@@ -3,7 +3,7 @@ body{
     height: 600px;
     padding: 20px;
     width: 500px;
-    margin: 50px auto;
+    margin: 50px auto; position: relative;
 }
 .frame> h1{
     text-align: center;
@@ -27,4 +27,9 @@ color: red;
 .button{
     width: 500px;
     height: 40px;
+}
+.telegram{
+    position: absolute;
+    left: 460px;
+    top: 10px;
 }
