@@ -1,0 +1,128 @@
+/* .Frame1{
+    width: 500px;
+    border-radius: 20px;
+   background-image:url(./new\ image.jpg);
+   color:orange;
+   padding: 10px;
+   margin-top: 5px ;
+   margin-left: 2px;
+   margin-bottom: 2px;
+
+}
+
+.Frame1 >ol >li {
+    margin-top: 30px;
+
+}
+.frame{
+   border: 20px solid white;
+    height: 90vh;
+    border-radius: 20px;
+   background-color: white;
+   margin: 50px auto;
+   padding: 10PX;
+   display: grid;
+   grid-template-columns: 300px 500px;
+   
+   
+}
+.new{
+    padding: 20px;
+
+}
+.new >h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(119, 183, 238);
+     
+}
+.label > input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+.label > button{
+    width: 100px;
+    height: 40px;
+    margin-left: 500px;
+    background-color: black;
+    color: white;
+} */
+
+
+/*  */
+
+.frame {
+    background-color: rgb(203, 174, 174);
+    padding: 40px;
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    border-radius: 20px;
+    gap: 30px;
+}
+
+.card1 {
+    background-image: url("./new\ image.jpg");
+    width: 300px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 50px 20px;
+}
+
+.count {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.count >span {
+    padding: 10px 14px;
+    border: 2px solid white;
+    border-radius: 100%;
+}
+
+.count > div {
+    display: grid;
+}
+
+
+.card1 > ol> li::marker {
+    content: "😁";
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 100%;
+}
+
+.card1 > ol> li {
+    margin-bottom: 50px;
+}
+
+
+.card2{
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.form > label {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.form> input {
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    padding: 8px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
